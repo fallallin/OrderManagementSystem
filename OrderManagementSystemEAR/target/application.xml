@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application xmlns="http://java.sun.com/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/application_6.xsd" version="6">
+  <application-name>OrderManagementSystemEAR</application-name>
+  <description>POM Maestro para el proyecto de capa de servicios</description>
+  <display-name>OrderManagementSystemEAR</display-name>
+  <module>
+    <ejb>OrderManagementSystemEJB-1.0.17.jar</ejb>
+  </module>
+  <module>
+    <web>
+      <web-uri>OrderManagementSystemWeb-1.0.17.war</web-uri>
+      <context-root>/OrderManagementSystemWeb</context-root>
+    </web>
+  </module>
+  <library-directory>lib</library-directory>
+</application>

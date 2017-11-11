@@ -1,0 +1,10 @@
+D:\OrderManagementSystem\OrderManagementSystemEJBClient\src\main\java\co\com\kallsonys\oms\interfaces\ILProductOms.java
+D:\OrderManagementSystem\OrderManagementSystemEJBClient\src\main\java\co\com\kallsonys\oms\dto\ProducerResponseDTO.java
+D:\OrderManagementSystem\OrderManagementSystemEJBClient\src\main\java\co\com\kallsonys\oms\dto\GetProductByIdResponseDTO.java
+D:\OrderManagementSystem\OrderManagementSystemEJBClient\src\main\java\co\com\kallsonys\oms\dto\ProductRankingResponseOmsDTO.java
+D:\OrderManagementSystem\OrderManagementSystemEJBClient\src\main\java\co\com\kallsonys\oms\interfaces\IRProductOms.java
+D:\OrderManagementSystem\OrderManagementSystemEJBClient\src\main\java\co\com\kallsonys\oms\dto\ProductResponseDTO.java
+D:\OrderManagementSystem\OrderManagementSystemEJBClient\src\main\java\co\com\kallsonys\oms\dto\ProductRankingRequestOmsDTO.java
+D:\OrderManagementSystem\OrderManagementSystemEJBClient\src\main\java\co\com\kallsonys\oms\dto\GetProductRankingResponseDTO.java
+D:\OrderManagementSystem\OrderManagementSystemEJBClient\src\main\java\co\com\kallsonys\oms\dto\RankingResponseOmsDTO.java
+D:\OrderManagementSystem\OrderManagementSystemEJBClient\src\main\java\co\com\kallsonys\oms\dto\AbstractDTO.java

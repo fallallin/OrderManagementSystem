@@ -1,0 +1,7 @@
+co\com\kallsonys\oms\ws\app\ConfiguracionMapeoObjectToJSON.class
+co\com\kallsonys\oms\ws\app\ServicesLayerApp.class
+co\com\kallsonys\oms\ws\app\CORSFilter.class
+co\com\kallsonys\oms\services\OrderManagementSystemServices.class
+co\com\kallsonys\oms\ws\app\ServiciosServicesLayer.class
+co\com\kallsonys\oms\ws\app\SQLDateOnlySerializer.class
+co\com\kallsonys\oms\ws\app\DateExampleDTO.class

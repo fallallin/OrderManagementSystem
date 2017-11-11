@@ -1,0 +1,10 @@
+co\com\kallsonys\oms\dto\RankingResponseOmsDTO.class
+co\com\kallsonys\oms\interfaces\IRProductOms.class
+co\com\kallsonys\oms\dto\AbstractDTO.class
+co\com\kallsonys\oms\interfaces\ILProductOms.class
+co\com\kallsonys\oms\dto\ProductResponseDTO.class
+co\com\kallsonys\oms\dto\GetProductRankingResponseDTO.class
+co\com\kallsonys\oms\dto\ProductRankingResponseOmsDTO.class
+co\com\kallsonys\oms\dto\ProductRankingRequestOmsDTO.class
+co\com\kallsonys\oms\dto\ProducerResponseDTO.class
+co\com\kallsonys\oms\dto\GetProductByIdResponseDTO.class
